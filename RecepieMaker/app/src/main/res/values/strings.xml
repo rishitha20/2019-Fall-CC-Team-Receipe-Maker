@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecepieMaker</string>
+    <string name="facebook_app_id">1825210487578334</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="signup"><a>Not an user? Sign Up Now</a></string>
+    <string-array name="ingredients">
+        <item>Cabbage</item>
+        <item>Garlic</item>
+        <item>Onion	</item>
+        <item>Turmeric</item>
+        <item>Potato</item>
+        <item>Ginger</item>
+        <item>Carrot</item>
+        <item>Beetroot</item>
+        <item>Drumstick</item>
+        <item>Spinach</item>
+        <item>Lettuce</item>
+
+    </string-array>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5-10</item>
+        <item>11-15</item>
+        <item>15-20</item>
+
+    </string-array>
+</resources>
